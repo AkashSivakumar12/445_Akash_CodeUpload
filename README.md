@@ -2,7 +2,7 @@
 A repository containing code upload necessary for PPS Sem 2 J2 Section
 # Code Upload From Hackerrank
 ### Problem 1
-`
+
 int main() {
 
     /* Enter your code here. Read input from STDIN. Print output to STDOUT */
@@ -15,10 +15,10 @@ int main() {
     printf("%.2f m\n%.2f ft\n%.2f in\n%.2f cm",m,ft,in,cm);
     return 0;
 }
-`
+
 
 ### Problem 2
-`
+
 int main() {
         
     /* Enter your code here. Read input from STDIN. Print output to STDOUT */  
@@ -28,9 +28,9 @@ int main() {
     printf("%d",(m*n)/2+o);
     return 0;
 }
-`
+
 ### Problem 3
-`
+
 int main() {
 
     /* Enter your code here. Read input from STDIN. Print output to STDOUT */ 
@@ -40,9 +40,9 @@ int main() {
     printf("%.2f sq.ft is equal to %.2f acres",sqft,acre);
     return 0;
 }
-`
+
 ### Problem 4
-`
+
 int main() {
 
     /* Enter your code here. Read input from STDIN. Print output to STDOUT */
@@ -53,9 +53,9 @@ int main() {
     printf("Quotient:%d\nRemainder:%d",div,rem);
     return 0;
 }
-`
+
 ### Problem 5
-`
+
 int main() {
 
     /* Enter your code here. Read input from STDIN. Print output to STDOUT */
@@ -68,7 +68,5 @@ int main() {
     printf("The Duration is %d days %d hours %d minutes %d seconds",d,h,m,s);
     return 0;
 }
-`
-All code was done using C language
 
-}
+All code was done using C language
