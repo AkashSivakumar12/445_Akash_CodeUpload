@@ -3,11 +3,6 @@ A repository containing code upload necessary for PPS Sem 2 J2 Section
 # Code Upload From Hackerrank
 ### Problem 1
 `
-#include <stdio.h>
-#include <string.h>
-#include <math.h>
-#include <stdlib.h>
-
 int main() {
 
     /* Enter your code here. Read input from STDIN. Print output to STDOUT */
@@ -24,11 +19,6 @@ int main() {
 
 ### Problem 2
 `
-#include <stdio.h>
-#include <string.h>
-#include <math.h>
-#include <stdlib.h>
-
 int main() {
         
     /* Enter your code here. Read input from STDIN. Print output to STDOUT */  
@@ -41,11 +31,6 @@ int main() {
 `
 ### Problem 3
 `
-#include <stdio.h>
-#include <string.h>
-#include <math.h>
-#include <stdlib.h>
-
 int main() {
 
     /* Enter your code here. Read input from STDIN. Print output to STDOUT */ 
@@ -58,11 +43,6 @@ int main() {
 `
 ### Problem 4
 `
-#include <stdio.h>
-#include <string.h>
-#include <math.h>
-#include <stdlib.h>
-
 int main() {
 
     /* Enter your code here. Read input from STDIN. Print output to STDOUT */
@@ -76,11 +56,6 @@ int main() {
 `
 ### Problem 5
 `
-#include <stdio.h>
-#include <string.h>
-#include <math.h>
-#include <stdlib.h>
-
 int main() {
 
     /* Enter your code here. Read input from STDIN. Print output to STDOUT */
